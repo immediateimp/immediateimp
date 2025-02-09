@@ -1,1 +1,1 @@
--> chat how do i ts <-
+hi chat , how do i center ts text ?? /gen
