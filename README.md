@@ -1,2 +1,3 @@
 ![](https://64.media.tumblr.com/0ca28812e1f864d2842f183f2b0c9dbf/555c4b73ed8c0b3e-60/s1280x1920/73b3486abeae0c132acf1c4152559e23fee614e2.pnj)
+bye how do u center ts text m like js `-> <-` ?? 
 ![](https://64.media.tumblr.com/7ffc8e6b0d72a1a5ccf65b72d2efe95b/555c4b73ed8c0b3e-61/s1280x1920/919909dd97743e77ec42f6161c7e287764090d20.pnj)
